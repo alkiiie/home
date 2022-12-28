@@ -1,4 +1,4 @@
-﻿@font-face {
+@font-face {
     font-family: "ft";
     font-weight: 300;
     src: url('fnt/lt.ttf');
@@ -64,13 +64,14 @@ div {
 .hl_main_text {
     text-align: center;
     font-size: 16px;
+    margin-top: 5px;
     color: #F7BACF;
 }
 
 .social_sets {
     text-align: center;
     user-select: none;
-    bottom: 10px;
+    margin-top: 5px;
 }
 
 .social_sets a {
@@ -100,6 +101,7 @@ div {
 .bse_descrp {
     text-align: center;
     user-select: none;
+    margin-top: 10px;
 }
 
 .dsp_ttl {

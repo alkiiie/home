@@ -129,3 +129,21 @@ div {
 .host_info a:active {
 	color: #D9BFC8;
 }
+
+.enote p {
+    color: #B398A2;
+}
+
+.enote a {
+    color: #B398A2;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.enote a:hover {
+    color: #B46480;
+}
+
+.enote a:active {
+	color: #E6CBD5;
+}

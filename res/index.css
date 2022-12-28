@@ -23,7 +23,7 @@
 }
 
 html {
-    background-color: #1D1617;
+    background-color: #1D1618;
     font-family: ft;
     user-select: none;
 }
@@ -64,7 +64,7 @@ div {
 .hl_main_text {
     text-align: center;
     font-size: 16px;
-    color: #F2D1D7;
+    color: #F7BACF;
 }
 
 .social_sets {
@@ -82,7 +82,7 @@ div {
 }
 
 .social_sets_odd a {
-    color: #F2D1D7;
+    color: #F7BACF;
     font-weight: 700;
 }
 
@@ -94,4 +94,29 @@ div {
 .social_sets_even a {
     color: #FFFFFF;
     font-weight: 400;
+}
+
+.bse_descrp {
+    text-align: center;
+    user-select: none;
+}
+
+.dsp_ttl {
+    display: inline;
+    color: #F7BACF;
+}
+
+.dsp_tbgi {
+    display: inline;
+    color: #CEBAF7;
+}
+
+.dsp_igte {
+    display: inline;
+    color: #BABFF7;
+}
+
+.dsp_algi {
+    display: inline;
+    color: #BAE8F7;
 }

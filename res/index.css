@@ -70,6 +70,7 @@ div {
 .social_sets {
     text-align: center;
     user-select: none;
+    bottom: 10px;
 }
 
 .social_sets a {

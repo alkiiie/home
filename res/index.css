@@ -98,28 +98,11 @@ div {
     font-weight: 400;
 }
 
-.bse_descrp {
-    text-align: center;
-    user-select: none;
-    margin-top: 20px;
+.host_info {
+    position: fixed;
+    bottom: 25px;
 }
 
-.dsp_ttl {
-    display: inline;
-    color: #F7BACF;
-}
-
-.dsp_tbgi {
-    display: inline;
-    color: #CEBAF7;
-}
-
-.dsp_igte {
-    display: inline;
-    color: #BABFF7;
-}
-
-.dsp_algi {
-    display: inline;
-    color: #BAE8F7;
+.host_info p {
+    color: #8F566A;
 }

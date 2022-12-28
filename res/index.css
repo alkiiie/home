@@ -64,14 +64,14 @@ div {
 .hl_main_text {
     text-align: center;
     font-size: 16px;
-    margin-top: 5px;
+    margin-top: 20px;
     color: #F7BACF;
 }
 
 .social_sets {
     text-align: center;
     user-select: none;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .social_sets a {
@@ -101,7 +101,7 @@ div {
 .bse_descrp {
     text-align: center;
     user-select: none;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .dsp_ttl {

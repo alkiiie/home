@@ -99,10 +99,30 @@ div {
 }
 
 .host_info {
-    position: fixed;
-    bottom: 25px;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    transform-origin: bottom;
+    text-align: center;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
 }
 
 .host_info p {
     color: #8F566A;
+}
+
+.host_info a {
+    color: #8F566A;
+    text-decoration: none;
+}
+
+.host_info a:hover {
+    color: #F7BACF;
+    font-weight: 600;
 }

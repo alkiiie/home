@@ -100,7 +100,6 @@ div {
 
 .host_info {
     display: flex;
-    height: 100%;
     width: 100%;
     position: absolute;
     bottom: 0;

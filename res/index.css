@@ -120,9 +120,13 @@ div {
 .host_info a {
     color: #8F566A;
     text-decoration: none;
+    transition: 0.2s;
 }
 
 .host_info a:hover {
-    color: #F7BACF;
-    font-weight: 600;
+    color: #C69FAD;
+}
+
+.host_info a:active {
+	color: #D9BFC8;
 }
